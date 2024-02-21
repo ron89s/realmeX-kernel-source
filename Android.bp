@@ -19,7 +19,7 @@ gensrcs {
     srcs: ["include/uapi/linux/qseecom.h"],
     output_extension: "h",
 }
-
+my uni 
 cc_library_headers {
     name: "qseecom-kernel-headers",
     generated_headers: ["qseecom-kernel-includes"],
